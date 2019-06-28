@@ -14,8 +14,8 @@ This is a public repository with introductory tutorials in different aspects of 
 
 _Last updated 06-10-2019_
 
-- [Introduction to Data Management using Stata](https://github.com/zhiyzuo/python-tutorial/blob/master/0-Installation-Environment-Setup.ipynb)
-- [Introduction to Data Visualization using Stata](https://github.com/zhiyzuo/python-tutorial/blob/master/1-Variables-Data_Structures-Control_Logic.ipynb)
+- [Introduction to Data Management using Stata](https://github.com/iowa-social-science-research-center/Stata-Workshops/tree/master/stata1)
+- [Introduction to Data Visualization using Stata](https://github.com/iowa-social-science-research-center/Stata-Workshops/tree/master/stata2%20workshop)
 
 
 ---
